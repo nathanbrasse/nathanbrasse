@@ -15,10 +15,6 @@ I'm an indie data scientist and writer who builds end-to-end solutions from the 
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
-# ---
-
-
-          
           
 <!--
 **nathanbrasse/nathanbrasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

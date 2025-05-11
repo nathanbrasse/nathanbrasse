@@ -1,5 +1,7 @@
 ## 🏌️Nathan Brasse
 
+**Honors Bachelors of Data Science and Analytics Student**
+
 <!--
 **nathanbrasse/nathanbrasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

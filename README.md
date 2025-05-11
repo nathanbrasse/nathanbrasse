@@ -8,6 +8,7 @@ I'm an indie data scientist and writer who builds end-to-end solutions from the 
 
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />     
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />

@@ -20,7 +20,7 @@ I'm an indie data scientist and writer who builds end-to-end solutions from the 
 
 ### ⚡ Extras:
 ##### 🏆2025 Seneca Hackathon Winner
-<img src="./assets/Hackathon Winner's Badge.png" width="400"/>
+<img src="./Hackathon Winner's Badge.png" width="400"/>
 **Winner - Food Insecurity and Charitable Support**
 Prototyped a native app to help organizations connect with volunteers. Focused on improving volunteer retention and easing pressure on supply chains through thoughtful feature design.
 <!--

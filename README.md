@@ -1,6 +1,6 @@
 ## 🏌️Nathan Brasse
 
-**""The best way to have good ideas is to have lots of ideas."" - <i>Linus Pauling</i>**
+<p style="text-align: center;"><b>""The best way to have good ideas is to have lots of ideas.""</b> <br />- <i>Linus Pauling</i></p>
 
 I'm an indie data scientist and writer who builds end-to-end solutions from the ground up. Each project starts with a business question and a blank whiteboard and ends with something real, whether it's a deployed model, an automated workflow, or an analysis that drives action. I focus on impact, aligning with stakeholders early and making technical results clear and useful for decision-makers.
 

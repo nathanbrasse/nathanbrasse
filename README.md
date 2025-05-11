@@ -4,7 +4,7 @@
 
 I'm an indie data scientist and writer who builds end-to-end solutions from the ground up. Each project starts with a business question and a blank whiteboard and ends with something real, whether it's a deployed model, an automated workflow, or an analysis that drives action. I focus on impact, aligning with stakeholders early and making technical results clear and useful for decision-makers.
 
-### 🧰 Tech Stack
+### 🧰 Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />

@@ -13,7 +13,7 @@ I'm an indie data analyst and writer who builds end-to-end solutions from the gr
 ### 🧰 Tools
 
 ![Python](assets/python.png)
-<img align="left" alt="Python" width="30px" style="padding-right;10x" src="assets/python.png" />
+<img align="left" alt="Python" width="100px" style="padding-right;10x" src="assets/python.png" />
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />          
 <img align="left" alt="Python" width="30px" style="padding-right;10x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />     

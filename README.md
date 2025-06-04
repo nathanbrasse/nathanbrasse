@@ -15,17 +15,15 @@ I'm an indie data analyst and writer who builds end-to-end solutions from the gr
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
     <img alt="Python" width="120px" src="assets/python.png">
     <img alt="R" width="55px" src="assets/R.png">
-    <img alt="Jupyter" width="120px" src="assets/jupyter.png">
-    <img alt="Pandas" width="120px" src="assets/pandas.png">
-    <img alt="Numpy" width="120px" src="assets/numpy.png">
-    <img alt="Spark" width="120px" src="assets/spark.png">
-    <img alt="Scikit Learn" width="120px" src="assets/scikit-learn.png">
-    <img alt="Matplotlib" width="120px" src="assets/matplotlib.png">
-    <img alt="Matlab" width="120px" src="assets/matlab.png">
-    <img alt="SQL" width="120px" src="assets/sql.png">
-    <img alt="MongoDB" width="120px" src="assets/mongodb.png">
     <img alt="HTML" width="120px" src="assets/html.png">
     <img alt="Tailwind" width="120px" src="assets/tailwind.png">
+    <img alt="SQL" width="120px" src="assets/sql.png">
+    <img alt="MongoDB" width="120px" src="assets/mongodb.png">
+    <img alt="Jupyter" width="120px" src="assets/jupyter.png">
+    <img alt="Jupyter" width="120px" src="assets/office.png">
+    <img alt="Jupyter" width="120px" src="assets/powerbi.png">
+    <img alt="Jupyter" width="120px" src="assets/tableau.png">
+    <img alt="Jupyter" width="120px" src="assets/figma.png">
 </div>
 
 <br>

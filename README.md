@@ -12,7 +12,7 @@ I'm an indie data analyst and writer who builds end-to-end solutions from the gr
 
 ### 🧰 Tools
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
     <img alt="Python" width="120px" src="assets/python.png">
     <img alt="R" width="55px" src="assets/R.png">
     <img alt="Jupyter" width="120px" src="assets/jupyter.png">

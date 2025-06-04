@@ -16,24 +16,14 @@ I'm an indie data analyst and writer who builds end-to-end solutions from the gr
 <img align="left" alt="R" width="55px" style="padding-right;10x" src="assets/R.png" />          
 <img align="left" alt="Jupyter" width="120px" style="padding-right;10x" src="assets/jupyter.png">     
 <img align="left" alt="Pandas" width="120px" style="padding-right;10x" src="assets/pandas.png" />
-       
 <img align="left" alt="Numpy" width="120px" style="padding-right;10x" src="assets/numpy.png"/>
-
-
 <img align="left" alt="Spark" width="120px" style="padding-right;10x" src="assets/spark.png" /> 
-
 <img align="left" alt="Scikit Learn" width="120px" style="padding-right;10x" src="assets/scikit-learn.png" />
-
 <img align="left" alt="Matplotlib" width="120px" style="padding-right;10x" src="assets/matplotlib.png" />
-
 <img align="left" alt="Matlab" width="120px" style="padding-right;10x" src="assets/matlab.png" />
-
 <img align="left" alt="SQL" width="120px" style="padding-right;10x" src="assets/sql.png" />
-
 <img align="left" alt="MongoDB" width="120px" style="padding-right;10x" src="assets/mongodb.png" />
-
 <img align="left" alt="HTML" width="120px" style="padding-right;10x" src="assets/html.png" />
-
 <img align="left" alt="TailwindCSS" width="120px" style="padding-right;10x" src="assets/tailwind.png" />
 
 <br>

@@ -5,7 +5,7 @@
 ### 👋 About Me
 - 📕 I'm currently a Data Science and Analytics student at Seneca
 - ✏️ I'm interested in data storytelling
-- 🔨 I also like making things (digitally)
+- 🔨 I enjoy making things (digitally)
 
 
 ### 🌱 Currently
